@@ -9,33 +9,32 @@ I've sorted the table by how early the language came in my life, starting at Ren
 
 ## Table of Contents
 
-`Unplanned` -><br />
-`Partly Planned` -><br />
-`Mostly Planned` -><br />
-`Unimplemented` -><br />
-`Partly Implemented` -><br />
-`Mostly Implemented` -><br />
+`Unplanned` -> `Partly Planned` -> `Mostly Planned` -><br />
+`Unimplemented` -> `Partly Implemented` -> `Mostly Implemented` -><br />
 `Done`
+
+`Priority`, `Shelved`, `Replaced`, `Dead`
 
 | Name | Info | Status |
 | - | - | - |
-| [Renn](/renn) | My first language | `Partly Planned` |
-| [Avoweliu](/avoweliu) | A vowel-y esolang | `Unimplemented` |
-| [HeLiILiI](/heliilii) | An element-y esolang | `Mostly Planned` |
-| [Carbogen](/carbogen) | A Lisp-y language | `Unimplemented` |
-| [2D Thingy](/2d_thingy) | A 2D lang | `Partly Planned` |
+| [Renn](/renn) | My first language | `Partly Planned` \| `Dead` |
+| [Avoweliu](/avoweliu) | A vowel-y esolang | `Unimplemented` \| `Shelved` |
+| [HeLiILiI](/heliilii) | An element-y esolang | `Mostly Planned` \| `Shelved` |
+| [PerPix](/perpix) | A Carbogen/Gentle predecessor | `Partly Planned` \| `Replaced` |
+| [Carbogen](/carbogen) | A Lisp-y language | `Unimplemented` \| `Priority` |
+| [2D Thingy](/2d_thingy) | A 2D lang | `Partly Planned` \| `Shelved` |
 | [AWON](/awon) | Alternate Weber Object Notation | `Unimplemented` |
 | [DMSL](/dmsl) | Dynamic Markup and Styling Language | `Unplanned` |
-| [Elements.Meal.Edible](/edible) | Shorthand Element.Meal syntax | `Unimplemented` |
-| [Fish and Fission Chips](/fish_and_fission_chips) | Joke esolang | `Partly Planned` |
-| [GE](/ge) | Generative Elements | `Unplanned` |
-| [Gentle](/gentle) | Little drawing lang | `Partly Implemented` |
+| [Meal.Edible](/edible) | Shorthand Elements.Meal syntax | `Unimplemented` \| `Priority` |
+| [Fish and Fission Chips](/fish_and_fission_chips) | Joke esolang | `Partly Planned` \| `Shelved` |
+| [GE](/ge) | Generative Elements | `Unplanned` \| `Shelved` |
+| [Gentle](/gentle) | Little drawing lang | `Partly Implemented` \| `Priority` |
 | [Long](/long) | Extremely verbose esolang | `Partly Planned` |
-| [Merpin](/merpin) | Tiny bytecode-y lang  | `Partly Planned` |
-| [NoiPro](/noipro) | Noise Programming lang | `Partly Planned` |
+| [Merpin](/merpin) | Tiny bytecode-y lang  | `Partly Planned` \| `Dead` |
+| [NoiPro](/noipro) | Noise Programming lang | `Partly Planned` \| `Replaced` |
 | [Peculiar](/peculiar) | Interesting language | `Mostly Planned` |
-| [Sandy](/sandy) | Material CA lang | `Unimplemented` |
+| [Sandy](/sandy) | Material CA lang | `Unimplemented` \| `Replaced` |
 | [Short](/short) | Extremely concise, but readable language | `Partly Planned` |
 | [Story](/story) | Every program is a story | `Unplanned` |
-| [Weber](/weber) | HTML alternative | `Mostly Planned` |
-| [Xatrian](/xatrian) | Crazy language | `Mostly Planned` |
+| [Weber](/weber) | HTML alternative | `Mostly Planned` \| `Shelved` |
+| [Xatrian](/xatrian) | Crazy language | `Mostly Planned` \| `Schrödinger's Language` |
