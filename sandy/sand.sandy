@@ -1,0 +1,17 @@
+name "Sand"
+
+data []
+
+make {}
+
+color ( #ffff46 )
+
+behave {
+    let side = random() < 0.5 ? -1 : 1;
+    if (@(x, y+1) == Air)
+        world.swap(x, y, x, y+1);
+    else if (@(x+side, y+1) == Air)
+        world.swap(x, y, x+side, y);
+    else if (@(x-side, y+1) == Air)
+        world.swap(x, y, x-side, y);
+}

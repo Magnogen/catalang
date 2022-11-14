@@ -1,0 +1,13 @@
+declare_custom_function_with_reference "main":
+    with 0 parameters, 0 outputs
+define_custom_function_under_reference "main":
+    when_parameters_are [  ]
+    providing_outputs [  ]
+    using_the_following_logic:
+        perform_output_to console_window with_value "Hello, World!"
+        exit_custom_function_under_reference "main" with_success "successful hello world program"
+define_custom_function_under_reference "main":
+    when_parameters_are [ *Anything: x ]
+    providing_outputs [  ]
+    using_the_following_logic:
+        exit_custom_function_under_reference "main" with_error "hello world program expected no inputs, but instead received some"

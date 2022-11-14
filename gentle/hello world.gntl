@@ -1,0 +1,1 @@
+out final = (Gradient.toRight * #f00) + (Gradient.toTop * #0f0);
