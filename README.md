@@ -23,7 +23,6 @@ I've sorted the table by how early the language came in my life, starting at Ren
 | [PerPix](/perpix) | A Carbogen/Gentle predecessor | `Partly Planned` \| `Replaced` |
 | [Carbogen](/carbogen) | A Lisp-y language | `Unimplemented` \| `Priority` |
 | [2D Thingy](/2d_thingy) | A 2D lang | `Partly Planned` \| `Shelved` |
-| [AWON](/awon) | Alternate Weber Object Notation | `Unimplemented` |
 | [DMSL](/dmsl) | Dynamic Markup and Styling Language | `Unplanned` |
 | [Meal.Edible](/edible) | Shorthand Elements.Meal syntax | `Unimplemented` \| `Priority` |
 | [Fish and Fission Chips](/fish_and_fission_chips) | Joke esolang | `Partly Planned` \| `Shelved` |
@@ -37,4 +36,5 @@ I've sorted the table by how early the language came in my life, starting at Ren
 | [Short](/short) | Extremely concise, but readable language | `Partly Planned` |
 | [Story](/story) | Every program is a story | `Unplanned` |
 | [Weber](/weber) | HTML alternative | `Mostly Planned` \| `Shelved` |
+| [AWON](/awon) | Alternate Weber Object Notation | `Unimplemented` |
 | [Xatrian](/xatrian) | Crazy language | `Mostly Planned` \| `Schrödinger's Language` |
