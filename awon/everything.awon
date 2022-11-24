@@ -1,0 +1,35 @@
+{
+    object: {},
+    list: [],
+    string: "Hello, World!",
+    number: 42,
+    boolean: true,
+    _null: null,
+    _undefined: undefined,
+    
+    // line comment
+    /* inline comment */
+    string_single: 'Bye bye, World!',
+    name: "Alex",
+    string_template: `Hello, ${this.name}!`,
+    bigint: 9007199254740991n
+    regexp: /[aeiou]/gi,
+    various_numbers: [
+        // all 503
+        0b111110111, // binary
+        0o767, // octal
+        0x1f7, // hexadecimal
+        #0001f7, // hexadecimal colour
+        5.03e2 // scientific notation
+    ],
+    function: () => { ... },
+    function_alt() { ... },
+    standing_variable: (value) => ({
+        value,
+        type: typeof value
+    }),
+    doesnt: "need"
+    a: "comma"
+    // but does need a newline instead
+    
+}
