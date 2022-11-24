@@ -1,2 +1,2 @@
 # GE
-`Unplanned` | `Shelved`
+`Partly Planned` | `Shelved`

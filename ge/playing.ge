@@ -1,0 +1,14 @@
+print 'Pi is:'
+$pi 3.14
+print $pi
+; > 3.14
+
+print 'Pi is less than 3?'
+$less $pi
+$less 3
+$less <
+print $less
+; > false
+
+
+print 'Pi is { ($pi, 3, <) ? 'less' : 'more' } than 3.'

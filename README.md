@@ -26,7 +26,7 @@ I've sorted the table by how early the language came in my life, starting at Ren
 | [DMSL](/dmsl) | Dynamic Markup and Styling Language | `Unplanned` |
 | [Meal.Edible](/edible) | Shorthand Elements.Meal syntax | `Unimplemented` \| `Priority` |
 | [Fish and Fission Chips](/fish_and_fission_chips) | Joke esolang | `Partly Planned` \| `Shelved` |
-| [GE](/ge) | Generative Elements | `Unplanned` \| `Shelved` |
+| [GE](/ge) | Generative Elements | `Partly Planned` \| `Shelved` |
 | [Gentle](/gentle) | Little drawing lang | `Partly Implemented` \| `Priority` |
 | [Long](/long) | Extremely verbose esolang | `Partly Planned` |
 | [Merpin](/merpin) | Tiny bytecode-y lang  | `Partly Planned` \| `Dead` |
