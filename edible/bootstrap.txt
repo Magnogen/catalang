@@ -1,0 +1,11 @@
+EDIBLE = (DEFINITION ";")* CHAIN;
+DEFINITION = IDENTIFIER "=" CHAIN;
+CHAIN = ANY (/[ \t\n]+/ ANY)*;
+ANY = LABEL ("|" LABEL)*;
+LABEL = (IDENTIFIER ":")? UNARY;
+UNARY = "!"* PRIMARY ("?" | "*" | "+")*;
+PRIMARY = STRING | REGEX | IDENTIFIER | ("(" CHAIN ")");
+STRING = "\"" ("\\\"" | !"\"") "\"";
+REGEX = "/" ("\\/" | !"/") "/";
+IDENTIFIER = /[A-Za-z_]/ /[A-Za-z_0-9]/*;
+EDIBLE
