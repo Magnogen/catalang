@@ -18,6 +18,7 @@ I've sorted the table by how early the language came in my life, starting at Ren
 | Name | Info | Status |
 | - | - | - |
 | [Renn](/renn) | My first language | `Partly Planned` \| `Dead` |
+| [Helix](/helix) | A strange little language exploring functions | `Partly Planned` \| `Shelved` |
 | [Avoweliu](/avoweliu) | A vowel-y esolang | `Unimplemented` \| `Shelved` |
 | [HeLiILiI](/heliilii) | An element-y esolang | `Mostly Planned` \| `Shelved` |
 | [PerPix](/perpix) | A Carbogen/Gentle predecessor | `Partly Planned` \| `Replaced` |
